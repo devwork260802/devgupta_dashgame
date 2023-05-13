@@ -11,32 +11,32 @@ const ASSETS = {
 
     IMAGE: {
         TREE: {
-            src: "../img/tree.png",
+            src: "/img/tree.png",
             width: 132,
             height: 192,
         },
 
         HERO: {
-            src: "../img/hero.png",
+            src: "/img/hero.png",
             width: 110,
             height: 56,
         },
 
         CAR: {
-            src: "../img/car04.png",
+            src: "/img/car04.png",
             width: 50,
             height: 36,
         },
 
         FINISH: {
-            src: "../img/finish.png",
+            src: "/img/finish.png",
             width: 339,
             height: 180,
             offset: -0.5,
         },
 
         SKY: {
-            src: "../img/cloud.jpg",
+            src: "/img/cloud.jpg",
         },
     },
 
